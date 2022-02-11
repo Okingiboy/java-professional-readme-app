@@ -67,15 +67,15 @@ You will also need a github account. Get one [here](https://github.com/).
 
 ## Authors
 
-* **Isaac Cortes Hernandez** 
+* **james chukwu** 
 
-- [Link to Portfolio Site](https://icortes.github.io/my-first-portfolio/)
+- [Link to Portfolio Site](https://okingiboy.github.io/developer-profile-html-css-js-git-james/)
 - [Link to Github](https://github.com/icortes)
-- [Link to LinkedIn](https://www.linkedin.com/in/cortes-isaac)
+- [Link to LinkedIn](https://www.linkedin.com/in/james-chukwu-238b3446/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEHZLwPjTTfGgZGF1o%2FlQ%2Bg%3D%3D)
 
 ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the UT-AUSTIN-BOOTCAMP License 
 
 ## Acknowledgments
 
