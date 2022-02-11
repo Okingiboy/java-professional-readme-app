@@ -32,7 +32,7 @@ const questions = [{
         type: "list",
         name: "license",
         message: "Chose a license for your app.",
-        choices: ["Apache Licence 2.0", "MIT License", "GNU GPLv3"]
+        choices: ["Apache Licence 2.0", "ut-austin-bootcamp License", "GNU GPLv3"]
     },
     {
         type: "input",

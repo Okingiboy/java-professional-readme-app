@@ -14,11 +14,7 @@
   
   ## Installation
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh mauris cursus mattis molestie a iaculis at erat pellentesque. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Euismod in pellentesque massa placerat duis ultricies. Gravida cum sociis natoque penatibus et magnis dis. Eget nunc scelerisque viverra mauris. Amet tellus cras adipiscing enim. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. Eget dolor morbi non arcu risus quis varius quam quisque. In hac habitasse platea dictumst vestibulum rhoncus est. Faucibus ornare suspendisse sed nisi lacus sed. In arcu cursus euismod quis viverra nibh cras pulvinar. Ullamcorper malesuada proin libero nunc consequat interdum varius. At lectus urna duis convallis. Diam maecenas ultricies mi eget mauris pharetra et ultrices. Nulla facilisi etiam dignissim diam. Purus non enim praesent elementum facilisis leo vel fringilla est. Sed augue lacus viverra vitae congue eu consequat ac felis. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Enim diam vulputate ut pharetra sit.
   
-  ## Usage 
-  
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh mauris cursus mattis molestie a iaculis at erat pellentesque. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Euismod in pellentesque massa placerat duis ultricies. Gravida cum sociis natoque penatibus et magnis dis. Eget nunc scelerisque viverra mauris. Amet tellus cras adipiscing enim. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. Eget dolor morbi non arcu risus quis varius quam quisque. In hac habitasse platea dictumst vestibulum rhoncus est. Faucibus ornare suspendisse sed nisi lacus sed. In arcu cursus euismod quis viverra nibh cras pulvinar. Ullamcorper malesuada proin libero nunc consequat interdum varius. At lectus urna duis convallis. Diam maecenas ultricies mi eget mauris pharetra et ultrices. Nulla facilisi etiam dignissim diam. Purus non enim praesent elementum facilisis leo vel fringilla est. Sed augue lacus viverra vitae congue eu consequat ac felis. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Enim diam vulputate ut pharetra sit.
   
   ## Collaborators
   
@@ -34,7 +30,7 @@
 
   ## Questions
   
-  * [Github](https://github.com/icortes)
+  * [Github](https://github.com/okingiboy)
   * For any more questions, reach me at my [email](email@email.com)
   
   ## Contributing
@@ -43,4 +39,4 @@
   
   ## Tests
   
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nibh mauris cursus mattis molestie a iaculis at erat pellentesque. Quisque sagittis purus sit amet volutpat consequat mauris nunc congue. Euismod in pellentesque massa placerat duis ultricies. Gravida cum sociis natoque penatibus et magnis dis. Eget nunc scelerisque viverra mauris. Amet tellus cras adipiscing enim. Lorem ipsum dolor sit amet consectetur adipiscing elit duis. Eget dolor morbi non arcu risus quis varius quam quisque. In hac habitasse platea dictumst vestibulum rhoncus est. Faucibus ornare suspendisse sed nisi lacus sed. In arcu cursus euismod quis viverra nibh cras pulvinar. Ullamcorper malesuada proin libero nunc consequat interdum varius. At lectus urna duis convallis. Diam maecenas ultricies mi eget mauris pharetra et ultrices. Nulla facilisi etiam dignissim diam. Purus non enim praesent elementum facilisis leo vel fringilla est. Sed augue lacus viverra vitae congue eu consequat ac felis. Massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Enim diam vulputate ut pharetra sit.
+ it is good to learn java script.

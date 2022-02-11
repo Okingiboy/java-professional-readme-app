@@ -21,20 +21,24 @@ You will also need a github account. Get one [here](https://github.com/).
     ![image of fork](develop/img/fork.jpg)
 
 2. Click the green code button and copy the SSH url. Should look like this:
-    ```
-    git@github.com:<username>/professional-readme-generator.git
-    ```
+https://okingiboy.github.io/java-professional-readme-app/
+
+https://github.com/Okingiboy/java-professional-readme-app
+
+    git@github.com:<username>/https://github.com/Okingiboy/java-professional-readme-app.git
 3. Open Git bash terminal and navigate to your desktop.
     ```
     cd Desktop
     ```
-4. Clone the repository to your desktop. You can right click on the terminal to paste the SSH url.
-    ```
-    git clone git@github.com:<username>/professional-readme-generator.git
-    ```
+4. Clone the repository to your desktop. 
+https://github.com/Okingiboy/java-professional-readme-app.git
+
+You can right click on the terminal to paste the SSH url.
+
+    git clone git@github.com:<username>/https://github.com/Okingiboy/java-professional-readme-app.git
 5. Navigate to the repository and into develop folder.
     ```
-    cd professional-readme-generator/develop/
+    cd java-professional-readme-app
     ```
 6. Download and install inquirer.
     ```
