@@ -27,23 +27,24 @@ https://github.com/Okingiboy/java-professional-readme-app
 
     git@github.com:<username>/https://github.com/Okingiboy/java-professional-readme-app.git
 3. Open Git bash terminal and navigate to your desktop.
-    ```
+
     cd Desktop
-    ```
+
 4. Clone the repository to your desktop. 
 https://github.com/Okingiboy/java-professional-readme-app.git
 
 You can right click on the terminal to paste the SSH url.
 
     git clone git@github.com:<username>/https://github.com/Okingiboy/java-professional-readme-app.git
+
 5. Navigate to the repository and into develop folder.
-    ```
+    
     cd java-professional-readme-app
-    ```
+
 6. Download and install inquirer.
-    ```
+
     npm install
-    ```
+
 
 ### Usage
 
@@ -61,9 +62,9 @@ You can right click on the terminal to paste the SSH url.
 
 4. Your new markdown file will be located here.
 
-    [Walkthrough video of usage](https://watch.screencastify.com/v/nFvatpta3K9wBEXbEvNh)
+    [Walkthrough video of usage](https://us02web.zoom.us/rec/play/a7no79BicHHaqRixSQh4zjZqlArHyelCbxeRoogM9zS6-PSQCgJNnbl8rlbNCgc25Ycrxf-Gd9ngKPTm.3zboL9kK7v36iFSM?autoplay=true&startTime=1644677816000)
     
-    ![gif of usage](develop/img/video.gif)
+
 ## Built With
 
 * [Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -79,6 +80,8 @@ You can right click on the terminal to paste the SSH url.
 
 - [Link to LinkedIn](https://www.linkedin.com/in/james-chukwu-238b3446/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BEHZLwPjTTfGgZGF1o%2FlQ%2Bg%3D%3D)
 
+[Video](https://us02web.zoom.us/rec/play/FYIwusIfLAzdVgKwgpkDdJidsHrBxB9fGEDeDdwuYWN1Ts1dSR1z2lwfvhGwJHW0QieXA94PV4rHZgDk.aBZyo5SyVdIYXIa4?autoplay=true&startTime=1644677816000)
+
 ## License
 
 This project is licensed under the UT-AUSTIN-BOOTCAMP License 
@@ -86,3 +89,4 @@ This project is licensed under the UT-AUSTIN-BOOTCAMP License
 ## Acknowledgments
 
 * Node.js [documentation](https://nodejs.org/docs/latest-v15.x/api/fs.html#fs_fs_writefile_file_data_options_callback)
+
